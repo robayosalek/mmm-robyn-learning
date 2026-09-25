@@ -1,0 +1,10 @@
+# Outputs grandes
+outputs/
+
+# Datos crudos (pueden ser confidenciales)
+data/raw/
+
+# Archivos temporales de R
+.Rhistory
+.RData
+.Rproj.user/
